@@ -1,0 +1,90 @@
+.title{
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
+.ze{
+    margin-left: 10%;
+    font-size: 200%;
+}
+.ze:hover{
+    color: chartreuse;
+    cursor: pointer;
+}
+.pic{
+    margin-top: 1%;
+    border: 2px;
+    width: 236px;
+    border-style: solid;
+    margin-left: 23%;
+    display: inline-block;
+}
+p{
+ margin-left: 2%;
+}
+a{
+    color: black;
+    margin-left: 35%;
+}
+a:hover{
+color: blue;
+}
+.pic2{
+    margin-top: 1%;
+    border: 2px;
+    width: 250px;
+    border-style: solid;
+    margin: left 50%;
+    display: inline-block;
+}
+p{
+ margin-right: 10%;
+}
+a{
+    color: black;
+    margin-left: 35%;
+}
+a:hover{
+    color: blue;
+}
+.pic3{
+    margin-top: 1%;
+    border: 2px;
+    width: 250px;
+    border-style: solid;
+    margin: left 50%;
+    display: inline-block;
+}
+p{
+ margin-right: 10%;
+}
+a{
+    color: black;
+    margin-left: 35%;
+}
+a:hover{
+    color: blue;
+}
+.con{
+    background-color: black;
+    color: white;
+   border: 1%;
+   border-color: black;
+   border-style: solid;
+   margin-top: 1%;
+   
+}
+.one{
+     font-size: larger;
+     margin-left: 28%;
+     margin-top: 2%;
+} 
+form{
+    margin-left:35%;
+}  
+.th{
+    color: blue;
+    margin-left: 60%;
+}
+
+
